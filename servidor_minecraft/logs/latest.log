@@ -1,0 +1,290 @@
+[14Jul2026 00:03:55.496] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 00:03:55.510] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[14Jul2026 00:03:55.511] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 00:03:55.511] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 808MB / Diff: +77MB
+[14Jul2026 00:03:55.511] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 00:03:55.511] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 00:03:55.513] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 517
+[14Jul2026 00:03:55.514] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 00:03:55.514] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[14Jul2026 00:13:55.546] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 00:13:55.548] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[14Jul2026 00:13:55.549] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 00:13:55.549] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 810MB / Diff: +79MB
+[14Jul2026 00:13:55.549] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 00:13:55.550] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 00:13:55.550] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 528
+[14Jul2026 00:13:55.550] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 00:13:55.550] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[14Jul2026 00:23:28.029] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ae17d3a0-c4fb-3f82-a743-97d80067eb70 timed out
+[14Jul2026 00:23:28.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player KewexX07
+[14Jul2026 00:23:28.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to KewexX07
+[14Jul2026 00:23:41.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Timed out
+[14Jul2026 00:23:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[14Jul2026 00:23:41.249] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KewexX07
+[14Jul2026 00:23:55.601] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 825MB / Diff: +94MB
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 685
+[14Jul2026 00:23:55.606] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 00:23:55.610] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[14Jul2026 00:24:11.437] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KewexX07[/127.87.16.68:42327] logged in with entity id 28436 at (169.50415944985016, 72.0, -1335.697143403396)
+[14Jul2026 00:24:11.456] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KewexX07
+[14Jul2026 00:24:11.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 joined the game
+[14Jul2026 00:24:11.590] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to KewexX07
+[14Jul2026 00:24:11.598] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 00:24:11.884] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from KewexX07
+[14Jul2026 00:24:11.912] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KewexX07 (20)
+[14Jul2026 00:24:11.916] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KewexX07
+[14Jul2026 00:24:15.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 00:24:15.224] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 00:24:16.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 00:24:16.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70) successfully connected to voice chat
+[14Jul2026 00:25:53.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ae17d3a0-c4fb-3f82-a743-97d80067eb70 timed out
+[14Jul2026 00:25:53.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player KewexX07
+[14Jul2026 00:25:53.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to KewexX07
+[14Jul2026 00:26:09.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Timed out
+[14Jul2026 00:26:09.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[14Jul2026 00:26:09.712] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KewexX07
+[14Jul2026 00:27:15.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KewexX07[/127.87.16.68:39199] logged in with entity id 29049 at (167.17529909217055, 72.0, -1334.1535535723158)
+[14Jul2026 00:27:15.557] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KewexX07
+[14Jul2026 00:27:15.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 joined the game
+[14Jul2026 00:27:15.665] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to KewexX07
+[14Jul2026 00:27:15.673] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 00:27:15.764] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from KewexX07
+[14Jul2026 00:27:15.775] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KewexX07 (20)
+[14Jul2026 00:27:15.777] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KewexX07
+[14Jul2026 00:27:15.778] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 00:27:17.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 00:27:18.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 00:27:18.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70) successfully connected to voice chat
+[14Jul2026 00:29:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> voa comel
+[14Jul2026 00:29:59.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Disconnected
+[14Jul2026 00:29:59.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[14Jul2026 00:29:59.197] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KewexX07
+[14Jul2026 00:33:55.651] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 00:33:55.651] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 00:33:55.651] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 00:33:55.652] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 828MB / Diff: +97MB
+[14Jul2026 00:33:55.652] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 00:33:55.652] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 00:33:55.652] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 788
+[14Jul2026 00:33:55.652] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 00:33:55.652] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 00:43:55.695] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 00:43:55.697] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 00:43:55.697] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 00:43:55.698] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 831MB / Diff: +100MB
+[14Jul2026 00:43:55.698] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 00:43:55.698] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 00:43:55.698] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 724
+[14Jul2026 00:43:55.698] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 00:43:55.698] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 00:53:55.745] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 833MB / Diff: +102MB
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 751
+[14Jul2026 00:53:55.746] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 00:53:55.749] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:03:55.796] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 01:03:55.796] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 01:03:55.797] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 01:03:55.797] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 838MB / Diff: +107MB
+[14Jul2026 01:03:55.797] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 01:03:55.797] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 01:03:55.797] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 826
+[14Jul2026 01:03:55.799] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 01:03:55.800] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:05:37.804] [Server thread/WARN] [treechop/]: Failed to chop block in level ResourceKey[minecraft:dimension / minecraft:overworld] at position BlockPos{x=110, y=75, z=-1385} for player literal{JORDY7SB}: minecraft:air is not choppable
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 864MB / Diff: +133MB
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1111
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 01:13:55.853] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 868MB / Diff: +137MB
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1111
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 01:23:55.896] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:33:55.946] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 01:33:55.946] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 883MB / Diff: +152MB
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1250
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 01:33:55.947] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:41:40.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KewexX07[/127.87.16.68:55563] logged in with entity id 46339 at (167.28961783497883, 72.0, -1331.7556270945743)
+[14Jul2026 01:41:40.380] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KewexX07
+[14Jul2026 01:41:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 joined the game
+[14Jul2026 01:41:40.500] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to KewexX07
+[14Jul2026 01:41:40.512] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 01:41:41.442] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from KewexX07
+[14Jul2026 01:41:41.505] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KewexX07 (20)
+[14Jul2026 01:41:41.505] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KewexX07
+[14Jul2026 01:41:47.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 01:41:48.485] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 01:41:48.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 01:41:48.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70) successfully connected to voice chat
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 938MB / Diff: +207MB
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1785
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 01:43:55.999] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:44:13.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KewexX07: Set season to Early Summer]
+[14Jul2026 01:48:10.711] [Server thread/WARN] [treechop/]: Failed to chop block in level ResourceKey[minecraft:dimension / minecraft:overworld] at position BlockPos{x=177, y=63, z=-1290} for player literal{KewexX07}: minecraft:air is not choppable
+[14Jul2026 01:53:56.049] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 01:53:56.049] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[14Jul2026 01:53:56.049] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 01:53:56.049] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 970MB / Diff: +239MB
+[14Jul2026 01:53:56.050] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 01:53:56.050] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 01:53:56.050] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1819
+[14Jul2026 01:53:56.050] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 01:53:56.050] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[14Jul2026 01:55:41.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a849f371-dc5f-3847-b2d7-66b3bf4d3838 timed out
+[14Jul2026 01:55:41.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player JORDY7SB
+[14Jul2026 01:55:41.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to JORDY7SB
+[14Jul2026 01:55:52.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a849f371-dc5f-3847-b2d7-66b3bf4d3838
+[14Jul2026 01:58:55.042] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5beeda9d[id=<null>,name=KewexX07,properties={},legacy=false] (/127.87.16.68:37965) lost connection: Disconnected
+[14Jul2026 01:59:00.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: You logged in from another location
+[14Jul2026 01:59:00.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[14Jul2026 01:59:00.096] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KewexX07
+[14Jul2026 01:59:00.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KewexX07[/127.87.16.68:55291] logged in with entity id 52201 at (169.86594885131487, 67.0, -1324.8042695585332)
+[14Jul2026 01:59:00.151] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player KewexX07
+[14Jul2026 01:59:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 joined the game
+[14Jul2026 01:59:00.204] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to KewexX07
+[14Jul2026 01:59:00.207] [Server thread/INFO] [Jade/]: Syncing config to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 01:59:00.401] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from KewexX07
+[14Jul2026 01:59:00.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of KewexX07 (20)
+[14Jul2026 01:59:00.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to KewexX07
+[14Jul2026 01:59:03.330] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 01:59:03.368] [Server thread/INFO] [ImprovableSkills/]: Sending skill data to KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70)
+[14Jul2026 01:59:04.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ae17d3a0-c4fb-3f82-a743-97d80067eb70
+[14Jul2026 01:59:04.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player KewexX07 (ae17d3a0-c4fb-3f82-a743-97d80067eb70) successfully connected to voice chat
+[14Jul2026 02:02:53.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/52643, l='ServerLevel[WorldRevive]', x=88.77, y=71.56, z=-979.30] died, message: 'Fisherman was slain by zoraaaa'
+[14Jul2026 02:03:56.106] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 02:03:56.106] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 5
+[14Jul2026 02:03:56.108] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 02:03:56.108] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1010MB / Diff: +279MB
+[14Jul2026 02:03:56.108] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 02:03:56.108] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 02:03:56.108] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1850
+[14Jul2026 02:03:56.109] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 02:03:56.109] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[14Jul2026 02:10:48.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/55489, l='ServerLevel[WorldRevive]', x=173.97, y=-256.00, z=-1332.47] died, message: 'Unemployed was killed'
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 5
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1012MB / Diff: +281MB
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2135
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 02:13:56.148] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 5
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1035MB / Diff: +304MB
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2169
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 02:23:56.199] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[14Jul2026 02:25:56.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JORDY7SB has reached the goal [Recipes in abondance !]
+[14Jul2026 02:28:20.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=172, y=65, z=-1199} BlockPos{x=172, y=64, z=-1198}
+[14Jul2026 02:29:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JORDY7SB> Tienes hierba?
+[14Jul2026 02:29:48.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> de la que te hace soñar?
+[14Jul2026 02:30:08.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JORDY7SB> el de para hacer esa cosa de la granja
+[14Jul2026 02:30:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> trigo?
+[14Jul2026 02:31:00.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JORDY7SB> me pide algo llamado hierba
+[14Jul2026 02:31:04.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> aa
+[14Jul2026 02:31:09.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> eso lo sacas con una tijera
+[14Jul2026 02:31:17.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> es la hierba que hay por ahi
+[14Jul2026 02:32:59.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JORDY7SB moved wrongly!
+[14Jul2026 02:33:56.254] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 02:33:56.254] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 5
+[14Jul2026 02:33:56.254] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 02:33:56.254] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1097MB / Diff: +366MB
+[14Jul2026 02:33:56.256] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 02:33:56.256] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 02:33:56.256] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2390
+[14Jul2026 02:33:56.256] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 02:33:56.256] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[14Jul2026 02:35:44.196] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/64786, l='ServerLevel[WorldRevive]', x=88.85, y=71.56, z=-979.30] died, message: 'Fisherman was slain by zoraaaa'
+[14Jul2026 02:38:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JORDY7SB has made the advancement [Convergent Evolution...]
+[14Jul2026 02:42:10.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JORDY7SB has made the advancement [Mob Farm Basics: Tier 0]
+[14Jul2026 02:43:51.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JORDY7SB moved wrongly!
+[14Jul2026 02:43:56.301] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 02:43:56.301] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 5
+[14Jul2026 02:43:56.301] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 02:43:56.305] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1109MB / Diff: +378MB
+[14Jul2026 02:43:56.305] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 02:43:56.305] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 02:43:56.305] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2644
+[14Jul2026 02:43:56.305] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 02:43:56.305] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[14Jul2026 02:49:47.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JORDY7SB> pilas hasta a qui llego que meñana tengo que levantardeme alas 6 para ir ala u
+[14Jul2026 02:49:54.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KewexX07> ya pilas
+[14Jul2026 02:49:58.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JORDY7SB lost connection: Disconnected
+[14Jul2026 02:49:58.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JORDY7SB left the game
+[14Jul2026 02:49:58.708] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JORDY7SB
+[14Jul2026 02:53:56.345] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 02:53:56.345] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 6
+[14Jul2026 02:53:56.345] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 02:53:56.345] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1101MB / Diff: +370MB
+[14Jul2026 02:53:56.345] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 02:53:56.346] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 02:53:56.346] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2575
+[14Jul2026 02:53:56.346] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 02:53:56.346] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 5
+[14Jul2026 03:03:56.401] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 03:03:56.401] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 6
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1104MB / Diff: +373MB
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2597
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 03:03:56.402] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 5
+[14Jul2026 03:13:56.444] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 6
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1107MB / Diff: +376MB
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 2597
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 03:13:56.445] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 5
+[14Jul2026 03:23:56.495] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[14Jul2026 03:23:56.495] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 6
+[14Jul2026 03:23:56.495] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[14Jul2026 03:23:56.496] [Server thread/INFO] [AllTheLeaks/]: B: 731MB / C: 1151MB / Diff: +420MB
+[14Jul2026 03:23:56.496] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[14Jul2026 03:23:56.496] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[14Jul2026 03:23:56.496] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 3102
+[14Jul2026 03:23:56.496] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[14Jul2026 03:23:56.496] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 5
+[14Jul2026 03:32:44.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KewexX07 lost connection: Disconnected
+[14Jul2026 03:32:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KewexX07 left the game
+[14Jul2026 03:32:44.449] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client KewexX07
+[14Jul2026 03:32:44.510] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
